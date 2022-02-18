@@ -1,2 +1,1 @@
-one.txt file added
-some texts
+one.txt file added 
